@@ -33,7 +33,7 @@ spl-token = { version = "=8.0.0", features = ["no-entrypoint"] }  # Latest versi
 spl-associated-token-account = { version = "7.0.0", features = [
     "no-entrypoint",
 ] }  # Latest version
-serum_dex = { version = "0.5.10", git = "https://github.com/Vai3soh/openbook-dex.git", branch = "feature/update-solana-program-2.1.0", features = [
+serum_dex = { version = "0.5.10", git = "https://github.com/LyndsFi/openbook-dex", branch = "solana-2.3-update", features = [
     "no-entrypoint",
     "program",
 ] }
